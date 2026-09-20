@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+dist-ssr/
+
+# Cachés de gh-pages
+.cache/
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+*.log
